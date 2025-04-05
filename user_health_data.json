@@ -1,0 +1,15 @@
+{
+    "medications": [
+        {
+            "id": "48526ca0",
+            "name": "Jhon",
+            "dosage": "2 tablets",
+            "schedule": "every 4 hours",
+            "notes": "take it",
+            "date_added": "2025-04-05"
+        }
+    ],
+    "appointments": [],
+    "vital_signs": [],
+    "general_health_notes": []
+}

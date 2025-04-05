@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: eldercare
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn Eldercare:app
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false 

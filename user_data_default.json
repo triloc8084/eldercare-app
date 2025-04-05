@@ -1,0 +1,13 @@
+{
+    "medications": [],
+    "appointments": [
+        {
+            "doctor": "Dr. Smith",
+            "date": "2025-04-15",
+            "time": "10:00 AM",
+            "purpose": "Annual checkup"
+        }
+    ],
+    "vital_signs": [],
+    "emergency_contacts": []
+}
